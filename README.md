@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rickyharyanto14
 - 👀 I’m interested in Big Data
-- 🌱 I’m currently learning and exploring about data analysis
+- 🌱 I’m currently learning and exploring about data engineering
 - 💞️ I’m looking to collaborate on all about data project
 - 📫 You can reach me by [my LinkedIn ](https://www.linkedin.com/in/ricky-haryanto14/)
 
